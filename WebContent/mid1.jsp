@@ -10,7 +10,7 @@
 	 
 	tr { margin-bottom: 10px;  } 
 	button { padding: 0.4em 3em; margin-top: 10px; }
-	<td style= "border: 1px solid gray;">	
+	td { "border: 1px solid gray;"}
 </style>
 </head>
 <body>
