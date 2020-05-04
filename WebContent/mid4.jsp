@@ -18,6 +18,8 @@
 			<input type="text" name="param1"  />
 			
 			</tr>
-			
+<p>성별 </p>
+<label><input type="checkbox" name="성별 " value="여자 "> 여자 </label>
+<label><input type="checkbox" name="성별 " value="남자 "> 남자 </label>			
 </body>
 </html>
