@@ -10,7 +10,7 @@
 	 
 	tr { margin-bottom: 10px;  } 
 	button { padding: 0.4em 3em; margin-top: 10px; }
-	td { "border: 1px solid gray;"}
+	td { border: 1px solid gray;}
 </style>
 </head>
 <body>
@@ -28,6 +28,32 @@
 			<tr>
 				<td>0 x 1 = 0</td>
 			</tr>
+			<tr>
+				<td>0 x 2 = 0</td>
+			</tr>
+			<tr>
+				<td>0 x 3 = 0</td>
+			</tr>
+			<tr>
+				<td>0 x 4 = 0</td>
+			</tr>
+			<tr>
+				<td>0 x 5 = 0</td>
+			</tr>
+			<tr>
+				<td>0 x 6 = 0</td>
+			</tr>
+			<tr>
+				<td>0 x 7 = 0</td>
+			</tr>
+			<tr>
+				<td>0 x 8 = 0</td>
+			</tr>
+			<tr>
+				<td>0 x 9 = 0</td>
+			</tr>
+			
+			
 </table>
 </body>
 </html>
